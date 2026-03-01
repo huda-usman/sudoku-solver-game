@@ -71,9 +71,13 @@ SudokuGame/
 
 ### 🎮 Game Board
 
-| Empty Board | Easy Puzzle | Medium Puzzle | Hard Puzzle |
-|:---:|:---:|:---:|:---:|
-| <img src="screenshots/01_game_board.png" width="280"> | <img src="screenshots/02_easy_board.png" width="280"> | <img src="screenshots/03_medium_board.png" width="280"> | <img src="screenshots/04_hard_board.png" width="280"> |
+| Empty Board | Easy Puzzle |
+|:---:|:---:|
+| <img src="screenshots/01_game_board.png" width="420"> | <img src="screenshots/02_easy_board.png" width="420"> |
+
+| Medium Puzzle | Hard Puzzle |
+|:---:|:---:|
+| <img src="screenshots/03_medium_board.png" width="420"> | <img src="screenshots/04_hard_board.png" width="420"> |
 
 ### 💡 Gameplay Features
 
