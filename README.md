@@ -93,13 +93,13 @@ SudokuGame/
 
 | KPI Overview | Performance Visualization | Interactive Charts |
 |:---:|:---:|:---:|
-| <img src="screenshots/08_performance_dashboard.png" width="320"> | <img src="screenshots/09_performance_visualization.png" width="320"> | <img src="screenshots/15_compare_games_charts.png" width="320"> |
+| <img src="screenshots/08_performance_dashboard.png" width="400"> | <img src="screenshots/09_performance_visualization.png" width="400"> | <img src="screenshots/15_compare_games_charts.png" width="400"> |
 
 ### 🏆 Game History & Stats
 
 | Overview | Detailed Comparison | Advanced Stats |
 |:---:|:---:|:---:|
-| <img src="screenshots/12_compare_games_overview.png" width="320"> | <img src="screenshots/13_compare_games_detailed.png" width="320"> | <img src="screenshots/14_compare_games_stats.png" width="320"> |
+| <img src="screenshots/12_compare_games_overview.png" width="400"> | <img src="screenshots/13_compare_games_detailed.png" width="400"> | <img src="screenshots/14_compare_games_stats.png" width="400"> |
 
 ### 🎖️ Extra Features
 
