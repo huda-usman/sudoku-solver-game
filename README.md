@@ -73,31 +73,31 @@ SudokuGame/
 
 | Empty Board | Easy Puzzle | Medium Puzzle | Hard Puzzle |
 |:---:|:---:|:---:|:---:|
-| ![Game Board](screenshots/01_game_board.png) | ![Easy](screenshots/02_easy_board.png) | ![Medium](screenshots/03_medium_board.png) | ![Hard](screenshots/04_hard_board.png) |
+| <img src="screenshots/01_game_board.png" width="220"> | <img src="screenshots/02_easy_board.png" width="220"> | <img src="screenshots/03_medium_board.png" width="220"> | <img src="screenshots/04_hard_board.png" width="220"> |
 
 ### 💡 Gameplay Features
 
 | Hint | Mistake | Auto Solved |
 |:---:|:---:|:---:|
-| ![Hint](screenshots/05_hint.png) | ![Mistake](screenshots/06_mistake.png) | ![Solved](screenshots/07_solve_automatically.png) |
+| <img src="screenshots/05_hint.png" width="220"> | <img src="screenshots/06_mistake.png" width="220"> | <img src="screenshots/07_solve_automatically.png" width="220"> |
 
 ### 📊 Performance Dashboard
 
 | KPI Overview | Performance Visualization | Interactive Charts |
 |:---:|:---:|:---:|
-| ![Dashboard](screenshots/08_performance_dashboard.png) | ![Visualization](screenshots/09_performance_visualization.png) | ![Charts](screenshots/15_compare_games_charts.png) |
+| <img src="screenshots/08_performance_dashboard.png" width="220"> | <img src="screenshots/09_performance_visualization.png" width="220"> | <img src="screenshots/15_compare_games_charts.png" width="220"> |
 
 ### 🏆 Game History & Stats
 
 | Overview | Detailed Comparison | Advanced Stats |
 |:---:|:---:|:---:|
-| ![Overview](screenshots/12_compare_games_overview.png) | ![Detailed](screenshots/13_compare_games_detailed.png) | ![Stats](screenshots/14_compare_games_stats.png) |
+| <img src="screenshots/12_compare_games_overview.png" width="220"> | <img src="screenshots/13_compare_games_detailed.png" width="220"> | <img src="screenshots/14_compare_games_stats.png" width="220"> |
 
 ### 🎖️ Extra Features
 
 | Achievements | Practice Mode | Share Results | Generate Report |
 |:---:|:---:|:---:|:---:|
-| ![Achievements](screenshots/16_achievements.png) | ![Practice](screenshots/17_practice_mode.png) | ![Share](screenshots/18_share_results.png) | ![Report](screenshots/11_generate_report.png) |
+| <img src="screenshots/16_achievements.png" width="220"> | <img src="screenshots/17_practice_mode.png" width="220"> | <img src="screenshots/18_share_results.png" width="220"> | <img src="screenshots/11_generate_report.png" width="220"> |
 
 ---
 
