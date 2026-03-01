@@ -128,33 +128,6 @@ java SudokuGUI
 
 ---
 
-## 📁 Screenshot Naming Guide
-
-Rename your screenshots and place them inside a `screenshots/` folder:
-
-| File Name | Description |
-|---|---|
-| `01_game_board.png` | Empty game board |
-| `02_easy_board.png` | Easy puzzle generated |
-| `03_medium_board.png` | Medium puzzle generated |
-| `04_hard_board.png` | Hard puzzle generated |
-| `05_hint.png` | Hint highlighted in green |
-| `06_mistake.png` | Mistake highlighted in red |
-| `07_solve_automatically.png` | Board solved automatically |
-| `08_performance_dashboard.png` | KPI performance dashboard |
-| `09_performance_visualization.png` | Circular score visualization |
-| `10_additional_features.png` | Additional features screen |
-| `11_generate_report.png` | Save performance report dialog |
-| `12_compare_games_overview.png` | Game history overview |
-| `13_compare_games_detailed.png` | Detailed game comparison |
-| `14_compare_games_stats.png` | Advanced statistics |
-| `15_compare_games_charts.png` | Interactive performance charts |
-| `16_achievements.png` | Achievements screen |
-| `17_practice_mode.png` | Practice mode dialog |
-| `18_share_results.png` | Share results dialog |
-
----
-
 ## 👩‍💻 Author
 
 **Huda Usman** — [github.com/huda-usman](https://github.com/huda-usman) · [LinkedIn](https://linkedin.com/in/hudausman010)
