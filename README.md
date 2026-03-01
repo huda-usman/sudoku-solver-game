@@ -73,7 +73,7 @@ SudokuGame/
 
 | Empty Board | Easy Puzzle | Medium Puzzle | Hard Puzzle |
 |:---:|:---:|:---:|:---:|
-| <img src="screenshots/01_game_board.png" width="220"> | <img src="screenshots/02_easy_board.png" width="220"> | <img src="screenshots/03_medium_board.png" width="220"> | <img src="screenshots/04_hard_board.png" width="220"> |
+| <img src="screenshots/01_game_board.png" width="280"> | <img src="screenshots/02_easy_board.png" width="280"> | <img src="screenshots/03_medium_board.png" width="280"> | <img src="screenshots/04_hard_board.png" width="280"> |
 
 ### 💡 Gameplay Features
 
@@ -85,19 +85,19 @@ SudokuGame/
 
 | KPI Overview | Performance Visualization | Interactive Charts |
 |:---:|:---:|:---:|
-| <img src="screenshots/08_performance_dashboard.png" width="220"> | <img src="screenshots/09_performance_visualization.png" width="220"> | <img src="screenshots/15_compare_games_charts.png" width="220"> |
+| <img src="screenshots/08_performance_dashboard.png" width="320"> | <img src="screenshots/09_performance_visualization.png" width="320"> | <img src="screenshots/15_compare_games_charts.png" width="320"> |
 
 ### 🏆 Game History & Stats
 
 | Overview | Detailed Comparison | Advanced Stats |
 |:---:|:---:|:---:|
-| <img src="screenshots/12_compare_games_overview.png" width="220"> | <img src="screenshots/13_compare_games_detailed.png" width="220"> | <img src="screenshots/14_compare_games_stats.png" width="220"> |
+| <img src="screenshots/12_compare_games_overview.png" width="320"> | <img src="screenshots/13_compare_games_detailed.png" width="320"> | <img src="screenshots/14_compare_games_stats.png" width="320"> |
 
 ### 🎖️ Extra Features
 
 | Achievements | Practice Mode | Share Results | Generate Report |
 |:---:|:---:|:---:|:---:|
-| <img src="screenshots/16_achievements.png" width="220"> | <img src="screenshots/17_practice_mode.png" width="220"> | <img src="screenshots/18_share_results.png" width="220"> | <img src="screenshots/11_generate_report.png" width="220"> |
+| <img src="screenshots/16_achievements.png" width="260"> | <img src="screenshots/17_practice_mode.png" width="260"> | <img src="screenshots/18_share_results.png" width="260"> | <img src="screenshots/11_generate_report.png" width="260"> |
 
 ---
 
