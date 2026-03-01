@@ -81,9 +81,13 @@ SudokuGame/
 
 ### 💡 Gameplay Features
 
-| Hint | Mistake | Auto Solved |
-|:---:|:---:|:---:|
-| <img src="screenshots/05_hint.png" width="220"> | <img src="screenshots/06_mistake.png" width="220"> | <img src="screenshots/07_solve_automatically.png" width="220"> |
+| Hint | Mistake |
+|:---:|:---:|
+| <img src="screenshots/05_hint.png" width="420"> | <img src="screenshots/06_mistake.png" width="420"> |
+
+| Auto Solved |
+|:---:|
+| <img src="screenshots/07_solve_automatically.png" width="860"> |
 
 ### 📊 Performance Dashboard
 
