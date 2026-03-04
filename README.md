@@ -131,9 +131,14 @@ java SudokuGUI
 ```
 
 ---
+### 🙋‍♀️ Connect with Me
 
-## 👩‍💻 Author
+Developed by **Huda Usman**
 
-**Huda Usman** — [github.com/huda-usman](https://github.com/huda-usman) · [LinkedIn](https://linkedin.com/in/hudausman010)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Huda%20Usman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hudausman010)
 
-> *Part of a growing portfolio of SE × AI projects.*
+<br/>
+
+⭐ **If you found this project interesting, please give it a star!** ⭐
+
+</div>
